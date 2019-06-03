@@ -2,7 +2,7 @@
 
 JLX12864G-086
 Monochrome 128x64 pixels.
-SPI oneway interface (scl, mosi, cs) + 2 control pins(reset, rs/cd/a0).
+SPI oneway interface (sck, mosi, cs) + 2 control pins(reset, rs/cd/a0).
 
 ## Required software ##
 
